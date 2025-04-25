@@ -1,9 +1,8 @@
-## How to find you next great and profitable idea, 40 ways
-
+## How to find your next great and profitable idea, Part I: 23 ways + bonus (9 tools/resources to discover new ideas)
 
 ### 1. Scratch Your Own Itch
 Solve a problem you have, especially one that feels niche but painful. This could be really difficult as many of us don't have any problems, especially hackers. But I believe, that we actually have problems, we are just used to theim in hard way. 
-#### Example 1. 
+#### Example 
 How many times you are stuck with a Git? You made some changes, tried to commit, and suddenly you see an error that you don't understand. You can try to find an answer on Stackoverlow, ask ChatGPT but it still may be hard and scary to follow their suggestions. So, what if you build a tool that...
 - doesn't allow you to screw with Git
 - show visually in simple manner what's going on (even if you a newbie with Git)
@@ -19,6 +18,7 @@ Especially those in boring industries — logistics, insurance, compliance, etc.
 Find areas still stuck in spreadsheets or pen and paper. One of my friends that is keen on in flight clubs, found that most of the club's owners still manage their assets and members using paper and pen, many of them never thought it could be done differently.
 
 #### Examples:
+
 - apps for cleaning services
 - veterinary clinic records (convert manually written records to the electronic versions)
 
@@ -34,6 +34,7 @@ Many small businesses run essential internal tools off Access or QuickBase — t
 AI, remote work, creator economy, digital health, etc. Ride the wave. The trick is not just to build for a trend, but to build with the trend — by solving emerging problems it creates.
 
 #### Examples
+
 - AI prompt library for lawyers, HR pros, or therapists
 - AI guardrails SaaS for enterprises — prevent LLMs from leaking sensitive data
 - Loom + AI → Auto-summary and task extraction from video updates
@@ -45,108 +46,122 @@ AI, remote work, creator economy, digital health, etc. Ride the wave. The trick 
 “Uber for boats”, “Notion for lawyers”, “Slack for churches” — surprisingly works. To make interesting combinations, try this free service: [https://www.toptal.com/marketing/mergewords](https://www.toptal.com/marketing/mergewords).
 
 ### 8. Check SaaS marketplaces
-See what’s selling on platforms like AppSumo, G2, or Product Hunt. With services like G2 and Capterra, look for interesting (to you) categories and read the negative reviews. They will give you an idea what people lack in those apps, what they complain about.
+See what’s selling on platforms like AppSumo, G2, or Product Hunt. With services like G2 and Capterra, look for interesting (to you) categories and read the negative reviews. They will give you an idea of what people lack in those apps, what they complain about.
 
 ### 9. Reverse Startup Funding
 Read what VCs are funding and try to build it leaner, earlier, or cheaper. Here is the list of YC-baked startups: [https://www.ycombinator.com/companies](https://www.ycombinator.com/companies).
 
 ### 10. Fix Something Broken in a Big Tool 
 A better Stripe dashboard? Cleaner Google Docs alternative?
-#### Examples:
+#### Examples: 
+
 - a simpler Vercel or DigitalOcean (what if you can host your project in just 2 clicks?)
 - a simpler database/project management
 - a simpler Git.
 
-Look for What People Are Doing in Spreadsheets
-If they track it in a Google Sheet, it might be a product.
 
-👀 Observation-Based Approaches
-Go to Craigslist Gigs
+### 11. Go to Craigslist Gigs, Upwork, Feverr
 See what people are paying strangers to do. There’s unmet demand.
+#### Examples:
 
-Scroll Niche Forums & Reddit
-Problems are often ranted about on /r/smallbusiness or HackerNews.
+- People pay $50 to convert PDFs to Excel → build a tool to do it instantly.
+- Freelancers offering $10 gig for Instagram captions → make “AI social caption writer for influencers.”
 
-Attend Local Small Business Events
-Ask business owners what annoys them daily.
+### 12. Scroll Niche Forums & Reddit
+Problems are often ranted about on /r/smallbusiness or HackerNews. Lurk in forums, subreddits, Discords, and Facebook groups. Look for recurring pain.
 
-Browse Facebook Groups
-Look at the questions, complaints, and tools being shared.
+#### Example:
+People in a Discord for indie hackers need better product launch feedback → build a “private launch feedback network.”
 
-Ask “What does your assistant do for you?”
-Great way to find automation ideas.
+### 12. Browse Job Boards (but not for a job)
+What: Look at what companies are hiring for — sometimes they need a tool that doesn’t exist yet.
 
-See What People Complain About in App Store Reviews
+#### Examples:
+
+- Companies posting jobs for “Zapier automation expert” → build a no-code workflow library.
+- 10 companies hiring “community manager” → create “Community dashboard SaaS.”
+
+### 13. Search Twitter for “is there a tool that…”
+This exact phrase often leads to gold.
+
+![image](https://github.com/user-attachments/assets/911b95fa-e4bd-4971-9593-c68cdaaf2c7c)
+
+
+### 14. See What People Complain About in App Store Reviews
 Find the most hated part of popular apps.
 
-Watch YouTube Tutorials
+### 15. Watch YouTube Tutorials
 If someone made a 20-minute video to explain something, it's too complex.
 
-🌀 Weird/Crazy But Sometimes Brilliant Methods
-Ask ChatGPT to Find a Startup Idea (😉)
-Like you’re doing now. Ask for 100 niches with monetization paths.
+#### Example:
+Excel gurus hacking dashboards → build “mini BI tool for non-technical folks.”
 
-Train a GPT Bot on Niche Data and Ask It
-Like “Hey, what problems do dog trainers face with client communication?”
+### 16. Clone a Startup That Died Too Early
+What: Some great ideas fail due to bad timing or execution. Give them new life. Where to find them? Check here:
+- [Failory](https://www.failory.com/)
+- [Startup graveyard](https://startupgraveyard.io/)
+- [The Startup Graveyard](https://www.thestartupgraveyard.com/)
 
-Walk Around IKEA or Home Depot for 2 Hours
-Physical world problems can spark digital ideas.
+Also, look at old YC startup projects: many ideas were ahead of their time.
 
-Read 1-Star Amazon Reviews in a Niche
-Products with bad reviews might need a digital solution.
-
-Use Tarot Cards, I Ching, or a Dice
-Let randomness spark connections. Roll a die for category + another for format.
-
-Dream Journaling
+### 17. Dream Journaling
 Capture ideas that appear in dreams. Some startups started this way.
 
-Travel to a Country 5–10 Years Behind Technologically
-Spot ideas that haven’t reached them yet or opportunities to leapfrog.
 
-Mashup Idea Generator
-Create a script that randomly combines niches and models: “Subscription + Beekeepers”.
-
-Start an Idea Newsletter
-Write 3 startup ideas weekly. Eventually one will feel too good to give away.
-
-Try Building a Microtool Every Day for a Month
-One will stick.
-
-Be a Gig Worker for a Month
-Deliver food, do customer support — and spot inefficiencies from the ground.
-
-Monitor Product Hunt / IndieHackers / Twitter Trends
+### 18. Monitor Product Hunt / IndieHackers / Twitter Trends
 See what gets attention but is poorly executed.
 
-🛠 Reverse Engineering & Copying
-Clone a Startup from Another Country
-What’s booming in India that’s not in Canada? Or vice versa?
 
-Copy a Startup That Died Prematurely
-With better timing, funding, or execution.
 
-Look at Old YC Startup Ideas
-Many ideas were ahead of their time.
-
-Buy a Micro SaaS and Evolve It
+### 19. Buy a Micro SaaS and Evolve It
 Like from MicroAcquire or Flippa.
 
-Find Excel Freelancers and Ask Them About Repeated Work
-They often automate things manually for clients.
 
-🧪 Mental Exercises & Prompts
-The “What Sucks?” List
-Every day, write down 3 things that sucked today. Review weekly.
 
-“Would You Pay $100/month For This?” Test
-Reverse brainstorm: what is valuable enough for that?
+### 20. Build Where Trust Is a Big Problem
+Trust issues = opportunity for verification or transparency tools.
 
-Constraint Brainstorming
-"What can I build in a week?" or "Without writing code?"
+#### Examples:
 
-10 Ideas a Day Exercise
-James Altucher’s method — build the idea muscle.
+- Fake reviews plague Amazon” → you build AI-based review authenticity scoring.
+- Freelancers ghosting → escrow + deadline-based payment app.
 
-Idea Speed Dating
-Share 20 ideas with a friend in 10 minutes. See which they react to.
+### 21. Make a Plugin for a Popular Tool
+Shopify, Figma, Notion, Discord, Linear — they all have ecosystems.
+
+#### Examples:
+
+- Shopify plugin to detect duplicate SKUs.
+- Notion AI plugin to summarize company meeting notes.
+- Figma plugin to auto-generate button variants.
+
+### 22. Observe What Others Think Is Too Small
+Big markets often start as “toys.”
+
+#### Examples:
+
+- A Chrome extension that saves tweets → becomes Readwise.
+- A silly avatar maker → turns into a SaaS for brand mascots.
+- A simple file uploader can be a real product
+- An online photo editor that can be embedded into a website
+
+### 23. Use the “Do It Manually, Then Automate” Rule
+Offer a service manually → turn it into software when you know the pain points.
+
+#### Examples:
+
+- Start a “product launch feedback” concierge → then build a SaaS to automate it.
+- Manually match influencers and brands → later build a matchmaking platform.
+
+
+## Bonus: Tools for finding or generating ideas
+
+[LeadBlooms: A curated list of users looking for SaaS solutions](https://leadblooms.com/)
+[Problem Finder (on Reddit)](https://problemfinder.xyz/)
+[15 No-code tools to build](https://www.blaze.tech/post/15-creative-no-code-tools-you-can-build)
+[Database of problems](https://www.bigideasdb.com/)
+[Search Reddit for painpoints](https://gummysearch.com/)
+[The audience search engine](https://gettheaudience.com/)
+[List of 1000+ SaaS Micro Ideas](https://microsaasidea.com/)
+[Discover hottest new trends](https://explodingtopics.com/)
+[Discover new trends](https://trends.google.com/trends/)
