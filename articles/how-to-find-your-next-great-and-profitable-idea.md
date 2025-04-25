@@ -7,7 +7,7 @@ How many times you are stuck with a Git? You made some changes, tried to commit,
 - doesn't allow you to screw with Git
 - show visually in simple manner what's going on (even if you a newbie with Git)
 - teach you Git's basics
-- convert your plain English in series of correct Git commands?
+- convert your plain English in series of correct Git commands? 
 
 **Advice.** If you don't have any problems, talk to you relatives, friends, colleagues - don't ask them directly "What do you have a problem with?" but rather listen to their complaints and watch their daily activities.
 
